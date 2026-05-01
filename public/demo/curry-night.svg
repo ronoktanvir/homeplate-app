@@ -1,0 +1,18 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F4EADB"/>
+  <rect x="88" y="88" width="1024" height="724" rx="44" fill="#EED7B0"/>
+  <ellipse cx="620" cy="468" rx="292" ry="238" fill="#FBF8F0"/>
+  <ellipse cx="620" cy="468" rx="238" ry="188" fill="#D4763A"/>
+  <ellipse cx="620" cy="468" rx="210" ry="158" fill="#E89C47"/>
+  <ellipse cx="620" cy="540" rx="192" ry="54" fill="#F2D28C"/>
+  <circle cx="490" cy="438" r="24" fill="#F7DDB4"/>
+  <circle cx="548" cy="394" r="28" fill="#F7DDB4"/>
+  <circle cx="642" cy="430" r="25" fill="#F7DDB4"/>
+  <circle cx="722" cy="386" r="26" fill="#F7DDB4"/>
+  <circle cx="764" cy="466" r="30" fill="#F7DDB4"/>
+  <circle cx="532" cy="504" r="12" fill="#2F6B4F"/>
+  <circle cx="688" cy="538" r="10" fill="#2F6B4F"/>
+  <circle cx="782" cy="430" r="10" fill="#2F6B4F"/>
+  <text x="126" y="168" fill="#523B2D" font-family="Arial, sans-serif" font-size="58" font-weight="700">Weeknight Curry Bowl</text>
+  <text x="126" y="226" fill="#7B6758" font-family="Arial, sans-serif" font-size="28">Warm colors and simple plating for demo content</text>
+</svg>

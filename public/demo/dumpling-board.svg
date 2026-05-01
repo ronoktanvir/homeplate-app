@@ -1,0 +1,16 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F6EEE2"/>
+  <rect x="78" y="80" width="1044" height="740" rx="42" fill="#ECD8B9"/>
+  <rect x="220" y="210" width="760" height="480" rx="36" fill="#7E5B43"/>
+  <rect x="248" y="238" width="704" height="424" rx="28" fill="#9B7155"/>
+  <path d="M356 372C382 334 430 316 476 326C520 334 552 366 564 404" stroke="#F4DEBD" stroke-width="26" stroke-linecap="round"/>
+  <path d="M642 372C668 334 716 316 762 326C806 334 838 366 850 404" stroke="#F4DEBD" stroke-width="26" stroke-linecap="round"/>
+  <path d="M426 544C452 506 500 488 546 498C590 506 622 538 634 576" stroke="#F4DEBD" stroke-width="26" stroke-linecap="round"/>
+  <path d="M716 542C742 504 790 486 836 496C880 504 912 536 924 574" stroke="#F4DEBD" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="404" cy="418" r="12" fill="#2F6B4F"/>
+  <circle cx="708" cy="418" r="12" fill="#2F6B4F"/>
+  <circle cx="504" cy="588" r="12" fill="#2F6B4F"/>
+  <circle cx="808" cy="586" r="12" fill="#2F6B4F"/>
+  <text x="122" y="168" fill="#523B2D" font-family="Arial, sans-serif" font-size="58" font-weight="700">Dumpling Night</text>
+  <text x="122" y="226" fill="#7B6758" font-family="Arial, sans-serif" font-size="28">Board-style hero image for demo social posts</text>
+</svg>

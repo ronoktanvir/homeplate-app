@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F7F1E4"/>
+  <rect x="74" y="82" width="1052" height="736" rx="42" fill="#F2E6C9"/>
+  <circle cx="610" cy="460" r="278" fill="#FBF8F0"/>
+  <circle cx="610" cy="460" r="222" fill="#F6D39C"/>
+  <circle cx="610" cy="460" r="204" fill="#FCE7BC"/>
+  <path d="M430 430C500 360 723 356 792 438" stroke="#E8A45B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M410 492C476 560 730 560 804 482" stroke="#E8A45B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M468 352C552 414 690 404 760 340" stroke="#D4763A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M476 584C560 524 676 532 748 590" stroke="#D4763A" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="516" cy="378" r="14" fill="#5B8A3C"/>
+  <circle cx="696" cy="338" r="12" fill="#5B8A3C"/>
+  <circle cx="734" cy="560" r="14" fill="#5B8A3C"/>
+  <circle cx="520" cy="558" r="12" fill="#5B8A3C"/>
+  <text x="112" y="170" fill="#523B2D" font-family="Arial, sans-serif" font-size="58" font-weight="700">Lemon Herb Pasta</text>
+  <text x="112" y="228" fill="#7B6758" font-family="Arial, sans-serif" font-size="28">Demo plate for seeded HomePlate posts</text>
+</svg>

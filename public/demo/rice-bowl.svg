@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F7EFE4"/>
+  <rect x="82" y="80" width="1036" height="740" rx="44" fill="#EAD9BE"/>
+  <circle cx="610" cy="462" r="286" fill="#FBF8F0"/>
+  <circle cx="610" cy="462" r="228" fill="#F5E4C2"/>
+  <ellipse cx="610" cy="510" rx="180" ry="86" fill="#F7F1E4"/>
+  <path d="M452 430C476 370 542 326 612 326C686 326 744 366 774 430" stroke="#8A5A3C" stroke-width="26" stroke-linecap="round"/>
+  <path d="M470 470C502 410 564 388 612 388C666 388 732 414 756 472" stroke="#A46A47" stroke-width="24" stroke-linecap="round"/>
+  <path d="M476 524C530 560 696 562 744 522" stroke="#D4763A" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="512" cy="434" r="18" fill="#2F6B4F"/>
+  <circle cx="706" cy="424" r="16" fill="#2F6B4F"/>
+  <circle cx="562" cy="552" r="14" fill="#2F6B4F"/>
+  <circle cx="676" cy="548" r="14" fill="#2F6B4F"/>
+  <circle cx="610" cy="448" r="42" fill="#F8D277"/>
+  <text x="126" y="168" fill="#523B2D" font-family="Arial, sans-serif" font-size="58" font-weight="700">Midnight Rice Bowl</text>
+  <text x="126" y="226" fill="#7B6758" font-family="Arial, sans-serif" font-size="28">Extra seeded profile art for demo activity</text>
+</svg>
